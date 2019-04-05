@@ -1,0 +1,33 @@
+/***********TAG SELECTOR***********/
+
+body {
+  background-color: #f3f9fb;
+}
+
+hr {
+  border-color: #87c0cd;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h3 {
+  color: #226597;
+  text-align: center;
+}
+
+/**************CLASS SELECTOR*********/
+
+.quotes {
+  color: #113f67;
+  text-align: center;
+}
+
+
+/****************ID SELECTOR*************/
+
+/*****************NOTES
+https://colorhunt.co/palette/141288
+*/
