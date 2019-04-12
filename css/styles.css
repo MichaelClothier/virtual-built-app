@@ -2,10 +2,11 @@
 
 body {
   background-color: #f3f9fb;
+  margin: 0;
 }
 
 hr {
-  border-color: #87c0cd;
+  border-color: #113f67;
   border-style: none;
   border-top-style: dotted;
   border-width: 5px;
@@ -18,6 +19,15 @@ h3 {
 }
 
 /**************CLASS SELECTOR*********/
+
+.top {
+  background-color: #87c0cd;
+  margin: 0;
+}
+
+.head {
+  background-color: #226597;
+}
 
 .quotes {
   color: #113f67;
